@@ -4,6 +4,6 @@ public class Rectangle extends Shape {
 
     @Override
     public void draw(DrawingContext context) {
-        System.out.println("Drawing Rectangle");
+        System.out.println("Drawing Rectangle Successfully");
     }
 }
