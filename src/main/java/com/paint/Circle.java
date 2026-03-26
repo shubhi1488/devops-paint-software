@@ -28,6 +28,6 @@ public class Circle extends Shape {
 
     @Override
     public void draw(DrawingContext context) {
-        System.out.println("Drawing Circle with radius " + radius);
+        System.out.println("Drawing Circle with radius :" + radius);
     }
 }
